@@ -1,0 +1,7 @@
+{
+  "volo": {
+    "dependencies": {
+      "stroll": "github:hakimel/stroll.js/v1.0"
+    }
+  }
+}
